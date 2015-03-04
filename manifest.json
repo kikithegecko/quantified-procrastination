@@ -1,0 +1,15 @@
+{
+   "manifest version": 2,
+   "name": "quantified procrastination",
+   "version": "0.0.1",
+
+   "default locale": "en",
+   "description": "This addon shows how much time you spend on distracting sites.",
+   "icons": { "16": "icon16.png",
+              "48": "icon48.png",
+	     "128": "icon128.png" },
+
+   "author": "kikithegecko",
+
+   "permissions": ["alarms"]
+}
